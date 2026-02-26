@@ -5,8 +5,6 @@ var URLS = [
   '/emoji-minesweeper/',
   '/emoji-minesweeper/index.html',
   '/emoji-minesweeper/game.js',
-  '/emoji-minesweeper/twemoji.js'
-
 ]
 
 // Respond with cached resources
